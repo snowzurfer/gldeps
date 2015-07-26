@@ -5,7 +5,8 @@ projects.
 
 ## Libraries
 
-* glfw: glfw/glfw@29b40112c234c3021648ea42a5e74cc122ba08b4
-* gl3w: kaslev/gl3w@8c727cd02803aa05783abc56eb212fb26d4c205d + generated source files
-* glm: g-truc/glm@09241ec000060fd3d085a11d608eb7909e004c75
-* imgui: ocornut/imgui@e8cb874afeface49c20fdb39c6972f91df1c6d37
+* [glfw](https://github.com/glfw/glfw/releases/tag/3.1.1)
+* [gl3w](https://github.com/skaslev/gl3w/commit/8c727cd02803aa05783abc56eb212fb26d4c205d)
+  + generated source files
+* [glm](https://github.com/g-truc/glm/releases/tag/0.9.6.3)
+* [imgui](https://github.com/ocornut/imgui/releases/tag/v1.43)
